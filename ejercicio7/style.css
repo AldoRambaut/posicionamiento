@@ -1,0 +1,23 @@
+#form, fieldset {
+    margin: 10px;
+}
+
+label, input {
+    padding: 10px;
+    margin-right: 10px;
+}
+
+#btnEnviar {
+    margin: 20px;
+}
+
+#estudios {
+    float: left;
+}
+
+#formulario {
+    width: max-content;
+    float: left;
+    display: flex;
+    flex-flow: column;
+}
